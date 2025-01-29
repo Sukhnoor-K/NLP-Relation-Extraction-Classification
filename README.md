@@ -24,7 +24,7 @@ Input data: Two csv files: train.csv and test.csv, adapted from the [FewRel](htt
 The output should be a csv file containing the following 3 columns in the same order: original_label, output_label, and row_id.
 
 # Report and Results
-Further details and results can be found [here](https://github.com/Leen-Alzebdeh/NLP-Relation-Extraction-Classification/blob/main/REPORT.md)
+Further details and results can be found [here](https://github.com/Sukhnoor-K/NLP-Relation-Extraction-Classification/blob/main/REPORT.md)
 
 # Contributors
 
