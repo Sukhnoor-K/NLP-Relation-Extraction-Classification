@@ -28,9 +28,9 @@ Further details and results can be found [here](https://github.com/Leen-Alzebdeh
 
 # Contributors
 
-Leen Alzebdeh  @Leen-Alzebdeh
+Leen Alzebdeh  [@Leen-Alzebdeh](https://github.com/Leen-Alzebdeh)
 
-Sukhnoor Khehra @Sukhnoor-K
+Sukhnoor Khehra [@Sukhnoor-K](https://github.com/Sukhnoor-K)
 
 # Resources Consulted
 
